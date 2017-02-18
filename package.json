@@ -1,0 +1,23 @@
+{
+  "name": "testproject",
+  "version": "0.0.1",
+  "description": "this is a test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanr46/node-class1.git"
+  },
+  "author": "sanra46 <sanra46@gmail.com> (http://example.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanr46/node-class1/issues"
+  },
+  "homepage": "https://github.com/sanr46/node-class1#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
