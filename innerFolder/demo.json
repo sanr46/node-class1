@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "58ab151b119b12112fdaf29e",
+    "index": 0,
+    "guid": "8d184ef1-af0c-45cf-a3bb-005302063d5d",
+    "isActive": true,
+    "balance": "$2,977.08",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "58ab151b6425b0eb25369f2d",
+    "index": 1,
+    "guid": "35d50bb7-d439-4f12-acbb-e3566500c038",
+    "isActive": false,
+    "balance": "$3,684.45",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "58ab151b8dca03bce43a805e",
+    "index": 2,
+    "guid": "801ba298-b8b1-4f6e-87a6-fa30ac448b81",
+    "isActive": false,
+    "balance": "$1,429.32",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "58ab151b8d6bd903cb272a53",
+    "index": 3,
+    "guid": "9647f72b-bd0c-4b1a-be0f-bfe3889810d5",
+    "isActive": true,
+    "balance": "$2,124.33",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "58ab151baafab653b7890fcf",
+    "index": 4,
+    "guid": "edc3fe45-8bf0-4823-bd5b-5eb90b27607b",
+    "isActive": false,
+    "balance": "$2,170.02",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "58ab151bd44d182c29efccb4",
+    "index": 5,
+    "guid": "b5e9e7e1-ac5f-4051-9b90-fa78164c4e7a",
+    "isActive": false,
+    "balance": "$1,597.49",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "58ab151bca712fb9e5756a2c",
+    "index": 6,
+    "guid": "a9b50a34-b4cf-491c-b236-6c5d125d3f03",
+    "isActive": false,
+    "balance": "$1,573.38",
+    "picture": "http://placehold.it/32x32",
+    "favoriteFruit": "banana"
+  }
+]
