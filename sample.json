@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "_id": "58ab109e13bb6bf18cbdf7ac",
@@ -225,3 +226,232 @@
     "favoriteFruit": "apple"
   }
 ]
+=======
+[
+  {
+    "_id": "58ab109e13bb6bf18cbdf7ac",
+    "index": 0,
+    "guid": "062df116-409a-43ad-923d-57daa81ce098",
+    "isActive": true,
+    "balance": "$1,536.11",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "brown",
+    "name": "Schroeder Alford",
+    "gender": "male",
+    "company": "ASSISTIX",
+    "email": "schroederalford@assistix.com",
+    "phone": "+1 (816) 433-3115",
+    "address": "680 Bedford Avenue, Northchase, Delaware, 4078",
+    "about": "Esse proident do laborum culpa culpa officia fugiat pariatur exercitation culpa. Est excepteur anim culpa irure laboris mollit aliquip aute aliqua occaecat quis deserunt ea. Fugiat commodo proident amet reprehenderit velit.\r\n",
+    "registered": "2016-08-16T12:54:33 -06:-30",
+    "latitude": 67.790837,
+    "longitude": -47.848446,
+    "tags": [
+      "officia",
+      "minim",
+      "labore",
+      "Lorem",
+      "nisi",
+      "ullamco",
+      "id"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lesa Rosa"
+      },
+      {
+        "id": 1,
+        "name": "Darlene Oneil"
+      },
+      {
+        "id": 2,
+        "name": "Petersen Buckley"
+      }
+    ],
+    "greeting": "Hello, Schroeder Alford! You have 4 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "58ab109ec29c4cb8d2c3bd07",
+    "index": 1,
+    "guid": "5ec8419a-4738-4775-9cd3-34692d594421",
+    "isActive": true,
+    "balance": "$1,273.93",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "green",
+    "name": "Contreras Wynn",
+    "gender": "male",
+    "company": "STELAECOR",
+    "email": "contreraswynn@stelaecor.com",
+    "phone": "+1 (846) 554-3818",
+    "address": "755 Central Avenue, Biehle, Iowa, 3286",
+    "about": "Non ut exercitation id sunt anim commodo ullamco eiusmod. Aute incididunt dolor non esse veniam id do voluptate qui. Irure consectetur voluptate id labore reprehenderit ex cupidatat. Dolore commodo duis elit incididunt minim. Dolore velit ea duis mollit cillum. Ullamco duis voluptate elit qui culpa irure. Fugiat laborum fugiat dolore eu ex aliqua anim id in qui ea magna deserunt.\r\n",
+    "registered": "2016-02-29T08:09:13 -06:-30",
+    "latitude": -9.317007,
+    "longitude": -32.574454,
+    "tags": [
+      "id",
+      "magna",
+      "duis",
+      "est",
+      "ullamco",
+      "incididunt",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Hoover Lee"
+      },
+      {
+        "id": 1,
+        "name": "Mcneil Odom"
+      },
+      {
+        "id": 2,
+        "name": "Elvira Barnett"
+      }
+    ],
+    "greeting": "Hello, Contreras Wynn! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "58ab109e0384666b0c06d48e",
+    "index": 2,
+    "guid": "f8d3d6e8-922e-4047-b1a9-b6220af59d19",
+    "isActive": false,
+    "balance": "$2,729.28",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "green",
+    "name": "Beatrice Rice",
+    "gender": "female",
+    "company": "RODEOCEAN",
+    "email": "beatricerice@rodeocean.com",
+    "phone": "+1 (979) 482-3262",
+    "address": "937 Caton Place, Turah, Montana, 2586",
+    "about": "Pariatur nostrud sunt anim ut aliqua do fugiat cupidatat in aliquip Lorem aute nulla pariatur. Minim dolore laborum tempor cillum fugiat nulla in ex occaecat et consectetur magna. Et sint dolore nisi commodo ad ipsum dolor labore do exercitation Lorem exercitation minim. Aute reprehenderit dolor consequat mollit Lorem aute ullamco elit eu deserunt duis ipsum culpa. Aute labore mollit est sunt non.\r\n",
+    "registered": "2017-01-14T07:17:20 -06:-30",
+    "latitude": 45.755473,
+    "longitude": 1.66399,
+    "tags": [
+      "aute",
+      "qui",
+      "irure",
+      "eu",
+      "proident",
+      "consectetur",
+      "cupidatat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jacklyn James"
+      },
+      {
+        "id": 1,
+        "name": "Martina Frye"
+      },
+      {
+        "id": 2,
+        "name": "Salazar Chaney"
+      }
+    ],
+    "greeting": "Hello, Beatrice Rice! You have 6 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "58ab109e0f08d074c04f8e99",
+    "index": 3,
+    "guid": "e64d033a-3b40-4587-8c08-ceaff15aea26",
+    "isActive": true,
+    "balance": "$2,759.33",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": "Cindy Stout",
+    "gender": "female",
+    "company": "AQUASURE",
+    "email": "cindystout@aquasure.com",
+    "phone": "+1 (891) 505-3567",
+    "address": "762 Greenwood Avenue, Wyano, Tennessee, 3347",
+    "about": "Ullamco aliqua non velit et. Minim ut nulla dolore ea incididunt sit cillum amet ex occaecat labore duis mollit. Ullamco ipsum fugiat eu veniam id proident exercitation excepteur officia. Ad id incididunt id voluptate dolore fugiat. Sunt cupidatat ipsum mollit dolor mollit ex incididunt reprehenderit dolor officia ea adipisicing et fugiat. Ullamco adipisicing in dolore mollit velit quis commodo voluptate esse. Dolore eiusmod minim Lorem do in amet id dolore.\r\n",
+    "registered": "2016-09-20T03:10:34 -06:-30",
+    "latitude": 37.087809,
+    "longitude": 26.779726,
+    "tags": [
+      "Lorem",
+      "commodo",
+      "officia",
+      "ut",
+      "qui",
+      "mollit",
+      "velit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Annette Walls"
+      },
+      {
+        "id": 1,
+        "name": "Kathryn Hansen"
+      },
+      {
+        "id": 2,
+        "name": "Bean Short"
+      }
+    ],
+    "greeting": "Hello, Cindy Stout! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "58ab109e7117538e27e7e7ec",
+    "index": 4,
+    "guid": "339b088f-b0a2-45df-8434-182f0ba52add",
+    "isActive": true,
+    "balance": "$1,496.59",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "eyeColor": "brown",
+    "name": "Holt Flynn",
+    "gender": "male",
+    "company": "OPTICON",
+    "email": "holtflynn@opticon.com",
+    "phone": "+1 (915) 477-2686",
+    "address": "748 Newton Street, Tibbie, Ohio, 1547",
+    "about": "Nostrud aliquip deserunt nostrud exercitation. Excepteur laboris dolore velit enim. Aliqua officia reprehenderit veniam dolore. Labore eu eu officia do aliquip reprehenderit consectetur.\r\n",
+    "registered": "2014-09-18T06:48:27 -06:-30",
+    "latitude": 60.149434,
+    "longitude": 153.67505,
+    "tags": [
+      "laborum",
+      "enim",
+      "sunt",
+      "sit",
+      "duis",
+      "nulla",
+      "laborum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jenny Velasquez"
+      },
+      {
+        "id": 1,
+        "name": "Rasmussen Mayer"
+      },
+      {
+        "id": 2,
+        "name": "Rhoda Walsh"
+      }
+    ],
+    "greeting": "Hello, Holt Flynn! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
+>>>>>>> 69ff521e27ab1ed28a39918cddbf54bbed5c4dea

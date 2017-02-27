@@ -19,12 +19,11 @@ function crudOperations() {
     api.use(bodyParser.json({
         limit: '5mb'
     }));
+
     // 1st fecth details from collection 1
     // 2nd fecth details from collection 2
     // combine the data
     // inster the data in to new collection
-
-
     api.post('/exe1', function(req, res) {
 
         var parallelExe = {

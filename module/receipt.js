@@ -5,7 +5,6 @@ var express = require('express');
 var bodyParser = require('body-parser');
 
 function crudOperations() {
-  
     var api = new express.Router(); // Router function
 
     api.use(bodyParser.json({
